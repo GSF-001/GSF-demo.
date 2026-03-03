@@ -12,3 +12,9 @@ git clone <repo-url>
 cd gsf-demo
 npm install
 npm run dev
+
+Open http://localhost:3000
+🔗 Live Demo
+TBD → deploy to Vercel/CodeSandbox
+🤝 Collaboration
+This blueprint is ready to be developed by volunteer developers/side projects. If you're interested in joining, please submit a PR at

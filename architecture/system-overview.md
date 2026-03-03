@@ -1,9 +1,21 @@
-# System Architecture Overview
+## System Architecture Overview
 
 GSF follows a modular architecture approach.
 
 Core Flow:
 
+Frontend:
+- React / Next.js dashboard
+- Component-based UI
+
+Backend:
+- REST API
+- Reward logic engine
+- Event management system
+
+Future Layer:
+- AI automation
+- Digital identity system
 User
 → Dashboard
 → Event System

@@ -7,9 +7,15 @@ Frontend prototype focuses on:
 - Reward visualization
 - Responsive layout
 
+Features:
+- Event dashboard
+- Reward cards
+- User interaction UI
+
 Target stack:
 - Next.js
 - React
 - Tailwind CSS
 
 Current implementation uses dummy data for demonstration.
+
